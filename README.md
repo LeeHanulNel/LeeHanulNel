@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeeHanulNel, C++ developper 
+- 👋 Hi, I’m @LeeHanulNel, C++ developper, Python
 - 👀 I’m interested in Machine Learning and Video Games
 - 💞️ I’m looking to collaborate on Machine Learning Project!! 
 - 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/nelinaritsima-lee-hanul-a533a915b/
